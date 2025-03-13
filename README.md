@@ -25,8 +25,21 @@
 </p>
 
 <p align="center">
-  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+  <a href="#clipboard-system-requirements">System Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
 </p>
+
+## :clipboard: System Requirements
+
+- [x] The user must be able to create a new transaction;
+- [x] The user must be able to get a summary of their account;
+- [x] The user must be able to list all transactions that have occurred;
+- [x] The user must be able to view a single transaction;
+
+### Business Rules
+
+- [x] The transaction can be of type credit which will add to the total amount, or debit which will subtract;
+- [x] It must be possible to identify the user between requests;
+- [x] The user can only view transactions that they created;
 
 ## :wrench: Install and run
 
