@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :dollar: Application using TypeScript, tsup, tsx, fastify, @fastify/cookie, knex.js, Zod, dotenv, ESLint, @rocketseat/eslint-config, pg, HTTPie and Insomnia. Test with Vitest, SuperTest and sqlite3. Deploy with Git, GitHub and Render.
+  :dollar: Application using TypeScript, tsup, tsx, fastify, @fastify/cookie, knex.js, Zod, dotenv, ESLint, @rocketseat/eslint-config, pg, HTTPie and Insomnia. Test with Vitest, SuperTest and sqlite3. Deploy with Git, GitHub and Render
 </p>
 
 <p align="center">
