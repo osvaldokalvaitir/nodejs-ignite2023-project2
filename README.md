@@ -30,6 +30,8 @@
 
 ## :clipboard: System Requirements
 
+### Functional Requirements
+
 - [x] The user must be able to create a new transaction;
 - [x] The user must be able to get a summary of their account;
 - [x] The user must be able to list all transactions that have occurred;
