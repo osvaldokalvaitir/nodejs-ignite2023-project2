@@ -54,11 +54,11 @@ git clone https://github.com/osvaldokalvaitir/nodejs-ignite2023-project2
 # Entry in folder
 cd nodejs-ignite2023-project2
 
-# Install deps with pnpm
-pnpm install
+# Install deps with npm
+npm install
 
-# Launch the app with pnpm
-pnpm run dev
+# Launch the app with npm
+npm run dev
 ```
 
 Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md), [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia.md), [HTTPie](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/httpie.md), [Render](https://github.com/osvaldokalvaitir/awesome/blob/main/src/ci-cd/render.md).
